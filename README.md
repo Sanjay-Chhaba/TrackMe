@@ -18,23 +18,6 @@ Clone the project
   git clone https://github.com/rajarshisg/TrackMe.git
 ```
 
-Go to the project directory
-
-```bash
-  cd TrackMe
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm start
-```
 
 
 
@@ -58,8 +41,5 @@ Start the server
   
 
 
-## Authors
-
-- [@rajarshisg](https://github.com/rajarshisg)
 
   
