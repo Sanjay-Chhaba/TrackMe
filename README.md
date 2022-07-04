@@ -10,17 +10,6 @@ TrackMe is a habit tracking we application made using Node.JS. It helps users to
 The project is deployed [here](https://heroku-track-me.herokuapp.com/)
 
 
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/rajarshisg/TrackMe.git
-```
-
-
-
-
 ## Screenshots 
 
 <img width="500px" src="https://user-images.githubusercontent.com/55212405/130433237-32ea1e95-150c-4b7a-960e-f72c31676c7c.jpg"> 
